@@ -1,9 +1,4 @@
-name: Update & Publish RSS and Web Scrapes to Repository (Hourly/Manual)
-
-on:
-  schedule:
-    - cron: "0 * * * *"  # Every hour
-  workflow_dispatch:
+name: Update & Publish RSS and Web Scrapes to Repository (Hourly)
 
 jobs:
   update:
