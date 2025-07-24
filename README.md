@@ -2,7 +2,7 @@
 
 ### This repository is a container for all of my releases, update feeds & their respective metadata.
 
-Hosted at the **[Royals' Development Website](https://frvrroyals.github.io/modpacks.html)**
+Hosted at the **[Royals' Development Website](https://royalsdevelopment.github.io/releases.html)**
 
 This repository houses any releases, updates, patches and fixes for all of my tools, mods and/or modpacks. It also includes updates & patch notes for select game titles.
 
